@@ -8,4 +8,4 @@ The included cpp files are from three challenge questions I received for a job i
   
 2. q2.cpp is a simple display of using file i/o and use of some STL functions.
 
-3. q3.cpp finds the longest commong substring and is a simple display of algorithm usage.
+3. q3.cpp finds the longest common substring and is a simple display of algorithm usage.
